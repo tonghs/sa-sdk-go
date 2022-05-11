@@ -1,0 +1,4 @@
+github.com/sensorsdata/sa-sdk-go v2.0.6+incompatible h1:gTcp+yGmshFRGkN4UeCYYfDPTyYAQYGPLwr2/jHcn7U=
+github.com/sensorsdata/sa-sdk-go v2.0.6+incompatible/go.mod h1:Lx0Y/oEtDd4T2qIxVfYx3P34q0DaIqoAypLK3D7m9cY=
+github.com/tonghs/sa-sdk-go v2.0.6+incompatible h1:plp73iutBDpCMJ+wyUApYHDITzeokKCHPTyty8/Z7Fw=
+github.com/tonghs/sa-sdk-go v2.0.6+incompatible/go.mod h1:c8mkPwoxRP2LqyYgpyb18fYCUs3Wsy0DSSk9EhJ3Ga8=
