@@ -5,27 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="61974af5-f73a-41b8-9454-56e7c5a302ad" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_examples/example_batch.go" beforeDir="false" afterPath="$PROJECT_DIR$/_examples/example_batch.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_examples/example_concurrentlogging.go" beforeDir="false" afterPath="$PROJECT_DIR$/_examples/example_concurrentlogging.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_examples/example_debug.go" beforeDir="false" afterPath="$PROJECT_DIR$/_examples/example_debug.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_examples/example_default.go" beforeDir="false" afterPath="$PROJECT_DIR$/_examples/example_default.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_examples/example_logging.go" beforeDir="false" afterPath="$PROJECT_DIR$/_examples/example_logging.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumers/batch.go" beforeDir="false" afterPath="$PROJECT_DIR$/consumers/batch.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumers/cclogging.go" beforeDir="false" afterPath="$PROJECT_DIR$/consumers/cclogging.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumers/consumers.go" beforeDir="false" afterPath="$PROJECT_DIR$/consumers/consumers.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumers/debug.go" beforeDir="false" afterPath="$PROJECT_DIR$/consumers/debug.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumers/default.go" beforeDir="false" afterPath="$PROJECT_DIR$/consumers/default.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumers/logging.go" beforeDir="false" afterPath="$PROJECT_DIR$/consumers/logging.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sensorsanalytics.go" beforeDir="false" afterPath="$PROJECT_DIR$/sensorsanalytics.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/batch_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/test/batch_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/cclogging_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/test/cclogging_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/debug_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/test/debug_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/default_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/test/default_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/demo.go" beforeDir="false" afterPath="$PROJECT_DIR$/test/demo.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/judge.go" beforeDir="false" afterPath="$PROJECT_DIR$/test/judge.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/logging_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/test/logging_test.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +82,7 @@
     "project.structure.last.edited": "Facets",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "com.goide.configuration.GoLibrariesConfigurableProvider"
+    "settings.editor.selected.configurable": "go.vgo"
   }
 }]]></component>
   <component name="RunManager">
@@ -167,8 +148,18 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VgoProject">
-    <integration-enabled>false</integration-enabled>
     <settings-migrated>true</settings-migrated>
   </component>
   <component name="XDebuggerManager">
