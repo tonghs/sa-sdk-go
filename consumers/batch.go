@@ -22,7 +22,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/sensorsdata/sa-sdk-go/structs"
+	"github.com/tonghs/sa-sdk-go/structs"
 )
 
 const (

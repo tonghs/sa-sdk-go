@@ -22,8 +22,8 @@ import (
 	"testing"
 	"time"
 
-	sdk "github.com/sensorsdata/sa-sdk-go"
-	"github.com/sensorsdata/sa-sdk-go/utils"
+	sdk "github.com/tonghs/sa-sdk-go"
+	"github.com/tonghs/sa-sdk-go/utils"
 )
 
 const (

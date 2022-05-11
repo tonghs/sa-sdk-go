@@ -23,9 +23,9 @@ import (
 	"os"
 	"runtime"
 
-	"github.com/sensorsdata/sa-sdk-go/consumers"
-	"github.com/sensorsdata/sa-sdk-go/structs"
-	"github.com/sensorsdata/sa-sdk-go/utils"
+	"github.com/tonghs/sa-sdk-go/consumers"
+	"github.com/tonghs/sa-sdk-go/structs"
+	"github.com/tonghs/sa-sdk-go/utils"
 )
 
 const (

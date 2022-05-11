@@ -19,7 +19,7 @@ package main
 
 import (
 	"fmt"
-	sdk "github.com/sensorsdata/sa-sdk-go"
+	sdk "github.com/tonghs/sa-sdk-go"
 )
 
 func main() {

@@ -18,7 +18,7 @@
 package test
 
 import (
-	"github.com/sensorsdata/sa-sdk-go/structs"
+	"github.com/tonghs/sa-sdk-go/structs"
 )
 
 var typemap map[string]int = map[string]int{
